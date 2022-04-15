@@ -19,3 +19,4 @@ console.log(tribonacci([0,0,1],8));
 console.log(tribonacci([0,0,1],2));
 
 console.log(tribonacci([1,1,1],8));
+console.log(tribonacci([1,1,1],0));
